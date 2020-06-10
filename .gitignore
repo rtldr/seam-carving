@@ -29,3 +29,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/images/**
+/src/main/java/com/seamcarving/lib/Picture.java

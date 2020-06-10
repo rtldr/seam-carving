@@ -40,13 +40,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
-		<!--	ImageJ dependency	-->
-		<dependency>
-			<groupId>net.imagej</groupId>
-			<artifactId>ij</artifactId>
-			<version>1.53b</version>
-		</dependency>
     </dependencies>
 
 	<build>
